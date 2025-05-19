@@ -1,0 +1,12 @@
+:root{
+--brand:#0d6efd;
+}
+body{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;}
+.card{border-radius:1rem;}
+.table-danger{animation: blink3 2s ease-in-out 3;}
+@keyframes blink3{0%,100%{background-color:#f8d7da;}50%{background-color:#fff;}}
+/* Gradient auth background */
+body.login-page{background:linear-gradient(135deg,var(--brand) 0%,#3287ff 100%);}
+.login-page .card{backdrop-filter:blur(8px);background:rgba(255,255,255,.85);}
+.card.shadow:hover{transform:translateY(-4px);transition:.3s all ease;box-shadow:0 .75rem 1.5rem rgba(0,0,0,.2);}
+.btn{border-radius:2rem;}
