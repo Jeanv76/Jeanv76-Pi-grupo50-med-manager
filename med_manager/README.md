@@ -10,7 +10,7 @@ Ele permite que cada usuário registre, acompanhe e gerencie prazos de validade 
 - **Dashboard**: contadores de medicamentos totais e a vencer em 30 dias.
 - **CRUD** completo de medicamentos (nome, lote, validade, quantidade).
 - **Alertas visuais** para itens próximos do vencimento.
-- 
+
 
 ## Instalação rápida
 
