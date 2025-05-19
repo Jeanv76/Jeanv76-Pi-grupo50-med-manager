@@ -3,6 +3,11 @@
 Sistema web simples em **PHP + MySQL** para controle de medicamentos, desenvolvido como parte do projeto integrador (PTI).  
 Ele permite que cada usuário registre, acompanhe e gerencie prazos de validade de seus próprios medicamentos.
 
+### Veja um vídeo da utilização do site!
+
+
+https://github.com/user-attachments/assets/15457534-1e60-499f-9fde-aef1326ff659
+
 
 ## Funcionalidades
 
@@ -57,3 +62,5 @@ Camila do Nascimento Feitosa;
 Nathan Barros de Assis;
 
 Hugo de Araújo Gomes;
+
+
