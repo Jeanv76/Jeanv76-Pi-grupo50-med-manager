@@ -6,7 +6,7 @@ Ele permite que cada usuário registre, acompanhe e gerencie prazos de validade 
 ### Veja um vídeo da utilização do site!
 
 
-https://github.com/user-attachments/assets/15457534-1e60-499f-9fde-aef1326ff659
+https://github.com/user-attachments/assets/9f414fb1-8164-409f-a194-bf3236b25428
 
 
 ## Funcionalidades
