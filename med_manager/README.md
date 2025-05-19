@@ -42,3 +42,9 @@ list_medicine.php # listar/gerenciar
 edit_medicine.php # editar
 delete_medicine.php
 
+### Integrantes
+
+Jean Vitor Batista Felix;
+Camila do Nascimento Feitosa;
+Nathan Barros de Assis;
+Hugo de Araújo Gomes;
