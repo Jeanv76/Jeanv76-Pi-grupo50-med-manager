@@ -20,9 +20,10 @@ https://github.com/user-attachments/assets/15457534-1e60-499f-9fde-aef1326ff659
 ## Instalação rápida
 
 ## IMPORTAÇÃO DO BANCO  
-Abra o *phpMyAdmin* e execute `database.sql`.
+Abra o *[phpMyAdmin](http://localhost/phpmyadmin/)* e execute `database.sql`.
 ou
 Importe diretamente na função Importar selecionando o arquivo de 'database.sql'.
+Caso você tenha mudado a porta do seu Apache para inicia-lo como eu, você terá que adicionar a porta selecionada para a mudança Ex: 'localhost:8080/phpmyadmin/'.
 ## SUBA O PROJETO AO XAMPP  
 Copie a pasta `med_manager` para `htdocs/` (ou `/var/www/html/`).
 ## ACESSE
