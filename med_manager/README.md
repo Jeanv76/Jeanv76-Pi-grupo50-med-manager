@@ -35,16 +35,25 @@ includes/
    auth.php      # proteção de rotas
  
 index.php         # login
+
 register.php      # cadastro
+
 dashboard.php     # painel principal
+
 add_medicine.php  # criar medicamento
+
 list_medicine.php # listar/gerenciar
+
 edit_medicine.php # editar
+
 delete_medicine.php
 
 ### Integrantes
 
 Jean Vitor Batista Felix;
+
 Camila do Nascimento Feitosa;
+
 Nathan Barros de Assis;
+
 Hugo de Araújo Gomes;
