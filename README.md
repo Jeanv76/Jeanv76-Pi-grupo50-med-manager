@@ -58,13 +58,15 @@ delete_medicine.php
 
 Jean Vitor Batista Felix;
 
-Camila do Nascimento Feitosa;
+Hugo de Araújo Gomes;
+
+Raphael Moraes Mender;
 
 Nathan Barros de Assis;
 
-Hugo de Araújo Gomes;
+Camila do Nascimento Feitosa;
 
-Raphael Moraes Mendes;
+Felipe Americo de Oliveira;
 
 ### Prints Projetos
 
