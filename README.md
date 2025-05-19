@@ -66,6 +66,8 @@ Hugo de Araújo Gomes;
 
 Raphael Moraes Mendes;
 
+Felipe Americo de Oliveira;
+
 ### Prints Projetos
 
 ![image](https://github.com/user-attachments/assets/455cea91-07b8-46d8-a50f-a4c71825e387)
