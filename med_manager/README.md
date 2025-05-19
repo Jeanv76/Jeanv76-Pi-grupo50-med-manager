@@ -63,4 +63,15 @@ Nathan Barros de Assis;
 
 Hugo de Araújo Gomes;
 
+### Prints Projetos
 
+![image](https://github.com/user-attachments/assets/455cea91-07b8-46d8-a50f-a4c71825e387)
+
+DASHBOARD
+![image](https://github.com/user-attachments/assets/404810e1-3f1e-4d80-8d4c-aaa11fa19345)
+
+ADD_MEDICINE
+![image](https://github.com/user-attachments/assets/597cb573-8cfe-48bd-9c56-c1a06f59c069)
+
+LIST_MEDICINE
+![image](https://github.com/user-attachments/assets/52458335-100c-4df3-8151-670077a868a6)
