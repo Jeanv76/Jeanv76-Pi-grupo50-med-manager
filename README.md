@@ -68,6 +68,8 @@ Camila do Nascimento Feitosa;
 
 Felipe Americo de Oliveira;
 
+Felipe Americo de Oliveira;
+
 ### Prints Projetos
 
 ![image](https://github.com/user-attachments/assets/455cea91-07b8-46d8-a50f-a4c71825e387)
